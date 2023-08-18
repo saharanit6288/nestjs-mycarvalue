@@ -7,5 +7,6 @@ nest g service users
 nest g service reports
 npm install @nestjs/typeorm typeorm sqlite3
 npm install class-validator class-transformer
+npm install cookie-session @types/cookie-session
 
 
